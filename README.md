@@ -1,3 +1,3 @@
 # lab02-2026
 
-lab02 hi
+lab2 hello
